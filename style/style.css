@@ -1,18 +1,18 @@
 @font-face {
   font-family: "Medieval Font";
-  src: url(/bruma-bravo-lab/fonts/BLKCHCRY.TTF);
+  src: url(/fonts/BLKCHCRY.TTF);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Oblivion Font";
-  src: url(/bruma-bravo-lab/fonts/oblivion-font.ttf);
+  src: url(/fonts/oblivion-font.ttf);
 }
 body {
   font-family: "Medieval Font";
   text-align: center;
-  background-image: url("/bruma-bravo-lab/images/background.png");
+  background-image: url("/images/background.png");
 }
 
 p.curved-border {
